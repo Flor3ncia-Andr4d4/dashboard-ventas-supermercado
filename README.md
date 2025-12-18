@@ -1,4 +1,6 @@
 # Dashboard de Ventas - Análisis de Supermercado
+<img width="1880" height="843" alt="captura_dashboard" src="https://github.com/user-attachments/assets/f0391009-dd22-4c2a-a9bf-06449d798faf" />
+
 
 ## Descripción del Proyecto
 Herramienta de Inteligencia de Negocios (Business Intelligence) desarrollada para el análisis exploratorio de datos y visualización de indicadores clave de rendimiento (KPIs) en un entorno comercial minorista.

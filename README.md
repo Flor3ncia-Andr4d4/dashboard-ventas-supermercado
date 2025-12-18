@@ -1,5 +1,6 @@
 # Dashboard de Ventas - Análisis de Supermercado
-<img width="3760" height="1686" alt="captura_dashboard" src="https://github.com/user-attachments/assets/27c48f3c-b5be-42a3-9598-ba460cfde41b" />
+<img width="1880" height="843" alt="captura_dashboard" src="https://github.com/user-attachments/assets/c55f79e9-18b2-4de2-8452-f589d5476226" />
+
 
 
 

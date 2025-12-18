@@ -1,0 +1,16 @@
+Invoice ID,Branch,City,Customer type,Gender,Product line,Unit price,Quantity,Tax 5%,Total,Date,Time,Payment,cogs,gross margin percentage,gross income,Rating
+100-01-2025,A,Yangon,Member,Female,Health and beauty,74.69,7,26.14,548.97,1/5/2019,13:08,Ewallet,522.83,4.7619,26.14,9.1
+100-02-2025,C,Naypyitaw,Normal,Female,Electronic accessories,15.28,5,3.82,80.22,3/8/2019,10:29,Cash,76.40,4.7619,3.82,9.6
+100-03-2025,A,Yangon,Normal,Male,Home and lifestyle,46.33,7,16.22,340.52,3/3/2019,13:23,Credit card,324.31,4.7619,16.22,7.4
+100-04-2025,A,Yangon,Member,Male,Health and beauty,58.22,8,23.29,489.05,1/27/2019,20:33,Ewallet,465.76,4.7619,23.29,8.4
+100-05-2025,A,Yangon,Normal,Male,Sports and travel,86.31,7,30.21,634.38,2/8/2019,10:37,Ewallet,604.17,4.7619,30.21,5.3
+100-06-2025,C,Naypyitaw,Normal,Male,Electronic accessories,86.31,5,21.58,453.13,1/29/2019,13:46,Ewallet,431.55,4.7619,21.58,6.3
+100-07-2025,B,Mandalay,Normal,Female,Home and lifestyle,97.38,10,48.69,1022.49,3/2/2019,17:16,Ewallet,973.80,4.7619,48.69,4.5
+100-08-2025,A,Yangon,Member,Male,Food and beverages,31.84,1,1.59,33.43,2/9/2019,13:22,Cash,31.84,4.7619,1.59,7.8
+100-09-2025,A,Yangon,Normal,Male,Home and lifestyle,65.82,1,3.29,69.11,2/22/2019,15:33,Cash,65.82,4.7619,3.29,4.2
+100-10-2025,A,Yangon,Member,Female,Fashion accessories,88.34,7,30.92,649.30,2/18/2019,13:28,Cash,618.38,4.7619,30.92,6.6
+100-11-2025,B,Mandalay,Member,Female,Sports and travel,35.00,2,3.50,73.50,2/20/2019,11:00,Credit card,70.00,4.7619,3.50,8.0
+100-12-2025,C,Naypyitaw,Member,Male,Food and beverages,15.50,10,7.75,162.75,1/15/2019,09:30,Cash,155.00,4.7619,7.75,5.5
+100-13-2025,B,Mandalay,Normal,Female,Fashion accessories,50.00,4,10.00,210.00,3/10/2019,14:45,Ewallet,200.00,4.7619,10.00,9.0
+100-14-2025,A,Yangon,Member,Male,Electronic accessories,99.00,1,4.95,103.95,1/05/2019,18:20,Credit card,99.00,4.7619,4.95,7.2
+100-15-2025,C,Naypyitaw,Normal,Male,Health and beauty,25.00,6,7.50,157.50,2/25/2019,16:10,Cash,150.00,4.7619,7.50,6.8

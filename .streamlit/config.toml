@@ -1,0 +1,15 @@
+[theme]
+# El color principal para botones y resaltados (Turquesa Tech)
+primaryColor = "#00ADB5"
+
+# El color de fondo principal (Gris oscuro profundo)
+backgroundColor = "#0E1117"
+
+# El color de la barra lateral (Un tono más claro para diferenciar)
+secondaryBackgroundColor = "#262730"
+
+# El color del texto (Blanco casi puro para buena lectura)
+textColor = "#FAFAFA"
+
+# Tipografía limpia
+font = "sans serif"
